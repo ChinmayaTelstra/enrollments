@@ -1,5 +1,7 @@
 # My ignore list
 .idea/
+.DS_Store
+Full-Stack-Web-Development-with-Flask-master/
 
 
 
